@@ -1,0 +1,27 @@
+title:Adobe Campaign现与Adobe Experience整合-整合 Adobe Campaign 合作/并购-速途网
+encode:utf-8
+keywords:整合,Adobe,Campaign,合作/并购,周勇
+description:Adobe Campaign现与Adobe Experience整合
+link:http://www.sootoo.com/content/476748.shtml
+image:null
+content:        
+       
+						　　北京—2014年1月15日 —Adobe公司今日于第103届美国零售联合会(NRP)年会暨博览会上宣布，将Adobe Campaign(原为Neolane)与Adobe Experience Manager整合，这两款软件均是Adobe Marketing Cloud的重要组成部分，也是业内最完整的营销解决方案。此次Adobe顶级跨渠道营销管理解决方案与网络体验管理解决方案的整合，将为市场营销人员提供单一的数字资产管理库，整合匿名用户访问数据与认证用户访问数据，并创造个性化的用户体验。同时，Adobe还发布了多项增强功能，以帮助用户更好地利用Adobe Campaign的强大性能。
+　　Adobe公司数字营销部门市场营销战略副总裁Suresh Vittal表示：“营销人员需要更好的方式在所有线上和线下渠道来创建、优化并发布内容。此次Adobe顶级的网络内容和营销管理解决方案的整合，使营销人员可在客户所偏好的渠道提供前所未有的个性化体验。这只是第一个里程碑，未来Adobe将继续深入推进Adobe Campaign和Adobe Marketing Cloud的整合。”
+　　弗雷斯特研究公司的Peter Sheldon 和 Stephen Powers称：“企业需要整合的数字用户体验，但是营销和电子商务部门往往为不同的目标各自为政，导致他们需要购买并使用独立的解决方案来管理品牌内容与交易。客户需要统一标准的体验，而营销人员以及电子商务人员需要合适的工具来管理这些用户体验。”
+　　除了与Adobe Experience Manager整合之外， Adobe Campaign主要的新功能还包括：
+　　· 扩展的实时互动管理 – 通过增强的营销基础架构，营销人员现在可以有效地发布大量的营销活动、商业信息、数据和互动。
+　　· 提升分布式的市场营销 – 全新的工具、流程和资产方便营销人员创建并定制本地化的营销活动。
+　　· 增强交易信息报告 – 交易信息报告是对诸如订单或发货等交易内容的完成或确认，这为营销人员提高客户的品牌忠实度和增加收入提供了机会。
+　　· 其他改进 - 支持德语，增强多项技术平台性能。
+　　这次整合基于近期公布Adobe Campaign的最新价格结构，此举帮助市场营销人员在规划和统一营销活动方面迈出了重要一步，为他们节省成本，不再依赖电子邮件CPM，更重要的是，与他们和每个客户个性化的沟通保持一致。
+　　Adobe 在美国零售联合会年会
+　　Adobe将于1月12日至15日在美国零售联合会(NRF)年会上展示上述新功能，地址位于纽约Javits会展中心635号展台。更多信息，请点击这里，并关注我们的Twitter @AdobeCampaign，并参与话题#nrf14。
+　　面市时间
+　　此次Adobe Campaign升级的新功能预计于2014年第1季度面市。更多信息，请点击这里。
+　　关于 Adobe Marketing Cloud
+　　Adobe Marketing Cloud满足数字营销者的所有需求，包括一套完整的分析、社交、广告、定位、Web体验管理、跨渠道营销管理解决方案、以及适合社交的用户界面，汇集营销者营销活动所需的一切工具，使营销者更迅速、更明智地实现从数据到见解到行动的跨越。
+　　关于Adobe公司
+　　Adobe正通过数字体验改变整个世界。如需了解更详细情况，请访问www.adobe.com/cn。
+　　通过Adobe中国官方微博www.weibo.com/adobechina和人人网主页page.renren.com/adobechina与本地Adobe团队取得联系，获取新闻、产品升级和促销信息。
+        【想看更多互联网新闻和深度报道请关注速途网官方微信。（微信号：速途网）】  

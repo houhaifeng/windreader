@@ -1,0 +1,9 @@
+title:拒绝电老虎 华硕B85-PLUS广州报599元-科技频道-和讯网
+encode:gb2312
+keywords:接口
+description:拒绝电老虎 华硕B85-PLUS广州报599元-科技频道-和讯网
+link:http://tech.hexun.com/2014-01-21/161632156.html
+image:null
+content:
+
+　　（中关村(000931,股吧)在线深圳行情资讯）主板华硕B85-PLUS在商家“广州品烨DIY装机店”到货，报价599元。该产品采用标准ATX大板型设计，可以容纳足够多的扩展功能插槽，同时散热条件也非常理想，是一款支持英特尔全新Haswell处理器的主板，能搭LGA1155接口规范的CPU，喜欢的朋友不妨多关注一下。华硕B85-PLUS　　华硕B85-PLUS主板基于Intel B85芯片组设计，采用ATX板型设计，尺寸为30.5×20.8cm。支持22nm LGA 1150接口系列处理器。内存方面，该板采用了4条DDR3 DIMM双通道内存插槽，支持高达32GB容量的内存。SATA接口方面，该主板配备了4个SATA3接口及2个SATA2接口。扩展插槽方面，该主板拥有2条PCIE x16插槽，2条PCIE x1插槽，3条PCI插槽。独家的EZ便捷模式更直观，中文图形化BIOS不仅操作更简单，还加入了新功能，包含快速配置风扇参数，快速适中调整，快速使用XMP设置等。华硕 B85-PLUS集成芯片声卡/网卡芯片厂商Intel主芯片组Intel B85芯片组描述采用Intel B85芯片组显示芯片CPU内置显示芯片(需要CPU支持)音频芯片集成Realtek ALC887 8声道音效芯片网卡芯片板载Realtek RTL8111G千兆网卡CPU平台IntelCPU类型Core i7/Core i5/Core i3/Pentium/CeleronCPU插槽LGA 1150CPU描述支持Intel 22nm处理器支持CPU数量1颗内存类型DDR3内存插槽4×DDR3 DIMM最大内存容量32GB内存描述支持双通道DDR3 1600/1333/1066MHz内存显卡插槽PCI-E 3.0标准PCI-E插槽2×PCI-E X16显卡插槽2×PCI-E X1插槽PCI插槽3×PCI插槽SATA接口2×SATA II接口；4×SATA III接口USB接口8×USB2.0接口（4内置+4背板）；4×USB3.0接口（2内置+2背板）外接端口1×DVI接口1×VGA接口PS/2接口PS/2鼠标，PS/2键盘接口其它接口1×RJ45网络接口音频接口主板板型ATX板型外形尺寸30.5×20.8cmBIOS性能128Mb Flash ROM，UEFI AMI BIOS，PnP，DMI2.0，WfM2.0，SM BIOS 2.7，ACPI 4.0a，多国语言BIOS，ASUS EZ Flash 2，ASUS CrashFree BIOS 3，收藏夹，快捷便签，历史记录，F12截屏，F3快捷键功能及ASUS DRAM SPD（Serial Presence Detect）内存信息多显卡技术支持AMD Quad-GPU CrossFireX技术音频特效不支持HIFI电源插口一个8针，一个24针电源接口供电模式3+1相　　编辑点评：　　华硕B85-PLUS是一款支持英特尔Haswell处理器的主板产品，配合全数字供电系统及优良的做工和齐全的扩展接口都让这款主板具备了极高的性价比。另外诸如USB3.0及SATA3等配置也让平台全面步入了高速时代。　　购买时提及ZOL中关村在线　　会获得更好的服务或优惠　　官方微博：@中关村在线　　-广州站　　zol广东网友交流QQ群（仅供交流，不含报价功能）　　251967154　　关注中关村-广州站官方微信：ZOL_GZ，获取更多资讯！　　华硕 B85-PLUS　　[参考价格] 599元　　[网店名称]：广州品烨DIY装机店　　[联系人]：林先生　　[商家电话]：020-87564643　　[联系 QQ]：2908730364　　[店铺地址]：广州市天河区太平洋(601099,股吧)数码广场A场3楼306A　　[网店链接] :http://dealer.zol.com.cn/d_184813/　　[报价查询] 主板产品报价ASUS（华硕）产品报价　　小编提醒：网购有风险，请尽量到实体店试机，如必须网购请选择支付宝、财付通等交易平台进行交易，请谨慎使用货到付款等不安全的交易方式。请大家保留好有效的交易记录、通信记录、QQ记录等，以备维护自己的权益！

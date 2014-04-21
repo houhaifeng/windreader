@@ -1,0 +1,101 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>WindReader</artifactId>
+    <groupId>cn.wind.com</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>cn.wind.com</groupId>
+  <artifactId>WindReaderService</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>WindReaderService</name>
+<dependencies>
+  <dependency>
+	  <groupId>cn.wind.com</groupId>
+	  <artifactId>reader-common</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  <!-- mysql java 连接 -->
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>5.1.10</version>
+	</dependency>
+	<!--数据库连接dbcp -->
+	<dependency>
+		<groupId>commons-dbcp</groupId>
+		<artifactId>commons-dbcp</artifactId>
+		<version>1.2.2</version>
+	</dependency>
+	<dependency>
+		<groupId>net.paoding</groupId>
+		<artifactId>paoding-rose</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>net.paoding</groupId>
+		<artifactId>paoding-rose-jade</artifactId>
+		<version>1.1-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>net.paoding</groupId>
+		<artifactId>paoding-rose-portal</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>net.paoding</groupId>
+		<artifactId>paoding-rose-scanning</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</dependency>
+  </dependencies>
+ <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<log4j_level>debug</log4j_level>
+		<db_master_url><![CDATA[jdbc:mysql://localhost:3306/reader?useUnicode=true&amp;characterEncoding=utf-8]]></db_master_url>
+		<db_master_user><![CDATA[root]]></db_master_user>
+		<db_master_password><![CDATA[miuiservermysql]]></db_master_password>
+  </properties>
+  <build>
+		<!-- build所需要的资源 -->
+		<resources>
+			<resource>
+				<directory>${project.basedir}/src/main/resources</directory>
+				<filtering>true</filtering>
+			</resource>
+		</resources>
+		<!-- build所需要的资源 -->
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+					<fork>true</fork>
+					<verbose>true</verbose>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+			<!-- 编译使用1.6 -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<configuration>
+					<!-- 忽略测试 -->
+					<skip>true</skip>
+				</configuration>
+			</plugin>
+		    <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifestEntries>
+							<Rose>*</Rose>
+						</manifestEntries>
+					</archive>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

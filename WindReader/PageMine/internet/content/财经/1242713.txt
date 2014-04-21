@@ -1,0 +1,7 @@
+title:
+encode:utf-8
+keywords:
+description:
+link:http://finance.sina.com.cn/money/forex/20140121/194618032920.shtml
+image:null
+content:*推测您提供的网页为非主题型网页，目前暂不处理！:-)

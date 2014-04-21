@@ -1,0 +1,75 @@
+title:重庆“防空洞”变华丽“酒铺”_网易房产
+encode:gbk
+keywords:防空洞,
+description:1月13日，重庆李子坝防空洞内装饰华丽，摆放着各类酒品。重庆渝中区一刻有“人民防空”字样的洞子变成了卖酒、品酒的休闲场所。图为一市民经过防空洞酒铺。
+link:http://rss.feedsportal.com/c/33390/f/640233/p/1/s/2bed0bdb/l/0Lbj0Bhouse0B1630N0Cphotonew0C1OQR0A0A0A70C1426970Bhtml0Tp0F9IHML3O41OQR0A0A0A7/story01.htm
+image:null
+content:        
+        
+{
+
+    "info": {
+        "setname": "重庆“防空洞”变华丽“酒铺”",
+        "imgsum": 4,
+        "lmodify": "2014-01-14 09:22:42",
+        "prevue": "1月13日，重庆李子坝防空洞内装饰华丽，摆放着各类酒品。重庆渝中区一刻有“人民防空”字样的洞子变成了卖酒、品酒的休闲场所。图为一市民经过防空洞酒铺。",
+        "channelid": "0007",
+        "prev": {
+            "setname": "直击首个自住房恒大“御景湾”提交材料现场",
+            "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFJHOQ11OQR0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/1OQR0007/142692.html#q=1"
+        },
+        "next": {
+            "setname": "学生建4.5平米1室1厅1厨1卫 欲申请专利",
+            "simg": "http://img2.cache.netease.com/photo/0007/2014-01-14/s_9IHPQHQO1OQR0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/1OQR0007/142699.html#q=1"
+        }
+    },
+
+    "list": [
+        {
+           "id": "9IHML3O41OQR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IHML3O41OQR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IHML3O41OQR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IHML3O41OQR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IHML3O41OQR0007.jpg",
+           "osize": {"w":940,"h":605},
+           "title": "",
+           "note": "1月13日，重庆李子坝防空洞内装饰华丽，摆放着各类酒品。重庆渝中区一刻有“人民防空”字样的洞子变成了卖酒、品酒的休闲场所。图为一市民经过防空洞酒铺。",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IHML3QS1OQR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IHML3QS1OQR0007.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0007/2014-01-14/t_9IHML3QS1OQR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IHML3QS1OQR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IHML3QS1OQR0007.jpg",
+           "osize": {"w":940,"h":625},
+           "title": "",
+           "note": "图为一汽车停在防空洞外。",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IHML3TC1OQR0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IHML3TC1OQR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IHML3TC1OQR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IHML3TC1OQR0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IHML3TC1OQR0007.jpg",
+           "osize": {"w":940,"h":625},
+           "title": "",
+           "note": "图为防空洞内装饰华丽，摆放着各类酒品。",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IHML3V41OQR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IHML3V41OQR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IHML3V41OQR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IHML3V41OQR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IHML3V41OQR0007.jpg",
+           "osize": {"w":940,"h":625},
+           "title": "",
+           "note": "图为防空洞内装饰华丽，摆放着各类酒品。",
+           "newsurl": "#"
+        } 
+    ]
+}        

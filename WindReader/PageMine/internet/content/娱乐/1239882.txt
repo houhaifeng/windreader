@@ -1,0 +1,273 @@
+title:杨幂承认怀孕后刘恺威首度现身_网易娱乐
+encode:gbk
+keywords:杨幂,刘恺威,
+description:网易娱乐1月21日报道(图文/小易)20日杨幂在微博中承认自己已经身怀六甲三个月之久。由于小时代3正在紧锣密鼓的拍摄中杨幂只好带孕上阵坚持到杀青。作为准爸爸的刘恺威当然是兴奋不已，但如今更重要的是赚足奶粉钱等小宝宝的降临。20日晚刘恺威现身上海机场，正在上海与唐嫣拍摄《千金女贼》的刘恺威也是忙里偷闲前往外地跑商演赚快钱。反戴帽子穿着黄色夹克衫的刘恺威直奔航空公司柜台办理登机手续。由于正当红刘恺威也是非常小心的左顾右盼看看有没有记者前来拍摄。办理完登机手续之后刘恺威从助理手上接过行李箱独自一人前往安检口。接收检查前刘恺威也是非常配合的脱下帽子和外套顶着一头凌乱的头发接受完安检之后离开。
+link:http://rss.feedsportal.com/c/33390/f/640224/p/1/s/7b5e4d54/l/0Lent0B1630N0Cphotoview0C0A0AAJ0A0A0A30C520A2920Bhtml0Tp0F9J3PC8P60A0AAJ0A0A0A3/story01.htm
+image:null
+content:        
+        
+{
+
+    "info": {
+        "setname": "杨幂承认怀孕后刘恺威首度现身",
+        "imgsum": 22,
+        "lmodify": "2014-01-21 09:06:17",
+        "prevue": "网易娱乐1月21日报道(图文/小易)20日杨幂在微博中承认自己已经身怀六甲三个月之久。由于小时代3正在紧锣密鼓的拍摄中杨幂只好带孕上阵坚持到杀青。作为准爸爸的刘恺威当然是兴奋不已，但如今更重要的是赚足奶粉钱等小宝宝的降临。20日晚刘恺威现身上海机场，正在上海与唐嫣拍摄《千金女贼》的刘恺威也是忙里偷闲前往外地跑商演赚快钱。反戴帽子穿着黄色夹克衫的刘恺威直奔航空公司柜台办理登机手续。由于正当红刘恺威也是非常小心的左顾右盼看看有没有记者前来拍摄。办理完登机手续之后刘恺威从助理手上接过行李箱独自一人前往安检口。接收检查前刘恺威也是非常配合的脱下帽子和外套顶着一头凌乱的头发接受完安检之后离开。",
+        "channelid": "0003",
+        "prev": {
+            "setname": "董璇最新写真曝光",
+            "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3OV9UH00AJ0003.jpg",
+            "seturl": "http://ent.163.com/photoview/00AJ0003/520291.html"
+        },
+        "next": {
+            "setname": "TimeZ毛若懿青春系个人写真曝光",
+            "simg": "http://img2.cache.netease.com/photo/0003/2014-01-21/s_9J3PMT5J00AJ0003.jpg",
+            "seturl": "http://ent.163.com/photoview/00AJ0003/520294.html"
+        }
+    },
+
+    "list": [
+        {
+           "id": "9J3PC8P600AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PC8P600AJ0003.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0003/2014-01-21/t_9J3PC8P600AJ0003.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0003/2014-01-21/s_9J3PC8P600AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PC8P600AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PC90G00AJ0003",
+           "img": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PC90G00AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PC90G00AJ0003.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0003/2014-01-21/s_9J3PC90G00AJ0003.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PC90G00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PC9VO00AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PC9VO00AJ0003.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0003/2014-01-21/t_9J3PC9VO00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PC9VO00AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PC9VO00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCAJ300AJ0003",
+           "img": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PCAJ300AJ0003.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0003/2014-01-21/t_9J3PCAJ300AJ0003.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0003/2014-01-21/s_9J3PCAJ300AJ0003.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PCAJ300AJ0003.jpg",
+           "osize": {"w":1125,"h":1995},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCBFO00AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCBFO00AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PCBFO00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCBFO00AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCBFO00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCC6P00AJ0003",
+           "img": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCC6P00AJ0003.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0003/2014-01-21/t_9J3PCC6P00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCC6P00AJ0003.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCC6P00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCCF200AJ0003",
+           "img": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCCF200AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PCCF200AJ0003.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0003/2014-01-21/s_9J3PCCF200AJ0003.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCCF200AJ0003.jpg",
+           "osize": {"w":900,"h":1200},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCD6O00AJ0003",
+           "img": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PCD6O00AJ0003.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0003/2014-01-21/t_9J3PCD6O00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCD6O00AJ0003.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PCD6O00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCDF800AJ0003",
+           "img": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCDF800AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PCDF800AJ0003.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0003/2014-01-21/s_9J3PCDF800AJ0003.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCDF800AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCE5H00AJ0003",
+           "img": "http://img6.cache.netease.com/photo/0003/2014-01-21/9J3PCE5H00AJ0003.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0003/2014-01-21/t_9J3PCE5H00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCE5H00AJ0003.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0003/2014-01-21/9J3PCE5H00AJ0003.jpg",
+           "osize": {"w":900,"h":1200},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCEE500AJ0003",
+           "img": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCEE500AJ0003.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0003/2014-01-21/t_9J3PCEE500AJ0003.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0003/2014-01-21/s_9J3PCEE500AJ0003.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCEE500AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCET100AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCET100AJ0003.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0003/2014-01-21/t_9J3PCET100AJ0003.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0003/2014-01-21/s_9J3PCET100AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCET100AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCFKE00AJ0003",
+           "img": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCFKE00AJ0003.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0003/2014-01-21/t_9J3PCFKE00AJ0003.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0003/2014-01-21/s_9J3PCFKE00AJ0003.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCFKE00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCFTM00AJ0003",
+           "img": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCFTM00AJ0003.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0003/2014-01-21/t_9J3PCFTM00AJ0003.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0003/2014-01-21/s_9J3PCFTM00AJ0003.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCFTM00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCGJH00AJ0003",
+           "img": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCGJH00AJ0003.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0003/2014-01-21/t_9J3PCGJH00AJ0003.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0003/2014-01-21/s_9J3PCGJH00AJ0003.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCGJH00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCGRQ00AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCGRQ00AJ0003.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0003/2014-01-21/t_9J3PCGRQ00AJ0003.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0003/2014-01-21/s_9J3PCGRQ00AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCGRQ00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCHJG00AJ0003",
+           "img": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCHJG00AJ0003.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0003/2014-01-21/t_9J3PCHJG00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCHJG00AJ0003.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0003/2014-01-21/9J3PCHJG00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCI2C00AJ0003",
+           "img": "http://img6.cache.netease.com/photo/0003/2014-01-21/9J3PCI2C00AJ0003.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0003/2014-01-21/t_9J3PCI2C00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCI2C00AJ0003.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0003/2014-01-21/9J3PCI2C00AJ0003.jpg",
+           "osize": {"w":2295,"h":2039},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCIQ900AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCIQ900AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PCIQ900AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCIQ900AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCIQ900AJ0003.jpg",
+           "osize": {"w":900,"h":1200},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCJII00AJ0003",
+           "img": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCJII00AJ0003.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0003/2014-01-21/t_9J3PCJII00AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCJII00AJ0003.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0003/2014-01-21/9J3PCJII00AJ0003.jpg",
+           "osize": {"w":900,"h":1200},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PCJQ100AJ0003",
+           "img": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCJQ100AJ0003.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0003/2014-01-21/t_9J3PCJQ100AJ0003.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0003/2014-01-21/s_9J3PCJQ100AJ0003.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0003/2014-01-21/9J3PCJQ100AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9J3PC7HI00AJ0003",
+           "img": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PC7HI00AJ0003.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0003/2014-01-21/t_9J3PC7HI00AJ0003.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0003/2014-01-21/s_9J3PC7HI00AJ0003.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0003/2014-01-21/9J3PC7HI00AJ0003.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "刘恺威",
+           "note": "",
+           "newsurl": "#"
+        } 
+    ]
+}        

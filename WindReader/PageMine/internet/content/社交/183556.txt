@@ -1,0 +1,86 @@
+title:萝莉凶猛，请勿动邪念 - 内陆飞鱼的日志 - 网易博客
+encode:gbk
+keywords:萝莉凶猛，请勿动邪念,日志,内陆飞鱼,内陆飞鱼,网易博客,网易,blog
+description:萝莉凶猛，请勿动邪念,内陆飞鱼的网易博客,在远离海洋的内陆高原，我仍在坝子的边缘飞行,
+link:http://rss.feedsportal.com/c/33390/f/640242/p/1/s/6f4f61fa/l/0Lblog0B1630N0Cmole0Isky0Cblog0Cstatic0C420A7118220A10A43194818740C/story01.htm
+image:null
+content:
+  
+    this.p={  m:2,
+              b:2,
+              id:'fks_080075086087086075087085094095080084081068085087094065',
+              blogTitle:'萝莉凶猛，请勿动邪念',
+              blogAbstract:'\r\n \r\n避开年前卡梅隆的《阿凡达》，年后马丁·斯科塞斯的《禁闭岛》，抽身在四月上映的《海扁王》，已经成为让年轻人集体狂欢的电影。紧张刺激的故事，漂亮的剪辑，扣人心弦的打斗场面，摇滚、电子、嘻哈、交响大集合的音乐编配，特别是女主角“超杀女”的扮演者科洛·莫瑞兹，一副活泼灵动天真可爱的神情，才十岁出头就把拳脚功夫比划得有模有样，使人大呼过瘾。\r\n《海扁王》好看，体现在几“快”上面。镜头运转快，配乐搭配快，萝莉出拳快，大老爸出枪快，海扁王泡妞快（悄悄的说，海扁王SJ也快，天天意淫大咪咪老师，看见网上裸体女黑人照片，都会喷射，最后和校花的天天嗨咻，是个男人都会羡慕，PS:蛋蛋都被踢爆了，下集还能继续喷射么？），红雾的跑车快、他爹爹死得更快。好玩，看看，好听，都具备了，导演还念念不忘搞点致敬。配乐竟是大牌电影的段落拼贴，吴宇森被提名竞猜了，颜尼欧·莫里康内《黄昏双镖客》的音乐被拿来用在萝莉杀人前整蛊。',
+              blogTag:'',
+              blogUrl:'blog/static/4207118220104319481874',
+              isPublished:1,
+              istop:false,
+              type:0,
+              modifyTime:1275358831535,
+              publishTime:1275270481874,
+              permalink:'blog/static/4207118220104319481874',
+              commentCount:19,
+              mainCommentCount:18,
+              recommendCount:0,
+              bsrk:-100,
+              publisherId:0,
+              recomBlogHome:false,
+              currentRecomBlog:false,
+              attachmentsFileIds:[],
+              vote:{},
+              groupInfo:{},
+              friendstatus:'none',
+              followstatus:'unFollow',
+              pubSucc:'',
+              visitorProvince:'',
+              visitorCity:'',
+              visitorNewUser:false,
+              postAddInfo:{},
+              mset:'000',
+              mcon:'',
+              srk:-100,
+              remindgoodnightblog:false,
+              isBlackVisitor:false,
+              isShowYodaoAd:false,
+              hostIntro:'',
+              hmcon:'0',
+              selfRecomBlogCount:'0',
+              lofter_single:''
+            }
+  
+  
+    {list a as x}
+    {if !!x}
+    
+      
+      {if x.visitorName==visitor.userName}
+      
+      {else}
+      
+      {/if}
+      
+      
+        {if x.moveFrom=='wap'}
+           
+        {elseif x.moveFrom=='iphone'}
+           
+        {elseif x.moveFrom=='android'}
+           
+        {elseif x.moveFrom=='mobile'}
+           
+        {/if}
+        
+          ${fn(x.visitorNickname,8)|escape}
+      
+    
+    {/if}
+    {/list}
+  
+  
+    {if !!a}
+    
+    ${fn(a.nickname,8)|escape} 
+    
+      内陆飞鱼
+    
+    ${a.selfIntro|escape}{if great260}${suplement}{/if}

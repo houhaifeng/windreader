@@ -1,0 +1,10 @@
+title:Intel将推出三防Education Tablet教育平板与classmate PC_Intel 英特尔_cnBeta.COM
+encode:utf-8
+keywords:Intel 英特尔,Intel将推出三防Education Tablet教育平板与classmate PC,cnBeta
+description:今天Intel宣布将推出两款定位于教育市场的计算设备，其中包括有10英寸的Intel Education Tablet（教育平板），以及10英寸的Intel classmate PC（学生PC，或者确切地说是“同学PC”）。两款设备在设计方面都讲求坚固性，坚固程度据说完全可应付学生的折腾，从70cm高度跌落也不会有问题，并且防水防尘。
+link:http://www.cnbeta.com/articles/269682.htm
+image:null
+content:                    
+                                                
+                                                今天Intel宣布将推出两款定位于教育市场的计算设备，其中包括有10英寸的Intel Education Tablet（教育平板），以及10英寸的Intel classmate PC（学生PC，或者确切地说是“同学PC”）。两款设备在设计方面都讲求坚固性，坚固程度据说完全可应付学生的折腾，从70cm高度跌落也不会有问题，并且防水防尘。                    
+                    其中Education Tablet教育平板运行Android 4.2操作系统，侧边有橡胶保护，方便握持。另外配有一支触控笔，电源按键也不易被误触。此平板搭载Intel Atom Z2520处理器，平板前后均有摄像头，支持可选3G连接，续航时间标定12小时。这款产品还用到了Intel GMA显示芯片，支持全高清视频播放。而最大的亮点还在于，产品附件包含放大镜和测温探针，供孩子们学习之用。另外一款classmate PC屏幕也是10英寸，采用Intel Celeron N2806处理器，运行的自然就是Windows 8.1系统了。这款classmate PC还提供更多的选择，今年晚些时间，采用Celeron N2805处理器运行Linux以及搭载Windows 7的版本也会上市。这款产品可选配触控屏，摄像头为可旋转设计。Intel classmate PC预计将在美国和其他部分国家于本月上市。

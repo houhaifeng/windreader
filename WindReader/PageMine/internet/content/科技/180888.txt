@@ -1,0 +1,130 @@
+title:iPhone让Android用户艳羡的9大特性_网易科技
+encode:gbk
+keywords:iPhone,Andorid,
+description:谷歌的Android和苹果的iOS是目前最受欢迎的两大智能手机平台，但两个阵营的粉丝们却经常相互“挑刺”，嘲讽对方的缺点。今天的图集为大家盘点一下让Android用户艳羡不已的9大iPhone特性。
+link:http://rss.feedsportal.com/c/33390/f/640226/p/1/s/37a3fc37/l/0Ltech0B1630N0Cphotoview0C0AAI20A0A0A90C37430Bhtml0Tp0F94RVUABC0AAI20A0A0A9/story01.htm
+image:null
+content:        
+        
+{
+
+    "info": {
+        "setname": "iPhone让Android用户艳羡的9大特性",
+        "imgsum": 9,
+        "lmodify": "2013-07-28 11:14:56",
+        "prevue": "谷歌的Android和苹果的iOS是目前最受欢迎的两大智能手机平台，但两个阵营的粉丝们却经常相互“挑刺”，嘲讽对方的缺点。今天的图集为大家盘点一下让Android用户艳羡不已的9大iPhone特性。",
+        "channelid": "0009",
+        "prev": {
+            "setname": "伤不起：盘点知名科技企业的14道奇葩面试题",
+            "simg": "http://img4.cache.netease.com/photo/0009/2013-07-28/s_94RV4KAO0AI20009.jpg",
+            "seturl": "http://tech.163.com/photoview/0AI20009/3742.html"
+        },
+        "next": {
+            "setname": "2013 Chinajoy最后一日终极福利 最美SG一览",
+            "simg": "http://img2.cache.netease.com/photo/0009/2013-07-28/s_94S81TD30AI20009.jpg",
+            "seturl": "http://tech.163.com/photoview/0AI20009/3744.html"
+        }
+    },
+
+    "list": [
+        {
+           "id": "94RVUABC0AI20009",
+           "img": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUABC0AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUABC0AI20009.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0009/2013-07-28/s_94RVUABC0AI20009.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUABC0AI20009.jpg",
+           "osize": {"w":1000,"h":562},
+           "title": "iPhone总是能够首先用上最棒的应用，而Android往往需要“望穿秋水”",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUADE0AI20009",
+           "img": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUADE0AI20009.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0009/2013-07-28/t_94RVUADE0AI20009.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0009/2013-07-28/s_94RVUADE0AI20009.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUADE0AI20009.jpg",
+           "osize": {"w":1200,"h":748},
+           "title": "苹果的软件一经发布马上就能够进行更新，Android经常要等一段时间",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAFK0AI20009",
+           "img": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAFK0AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUAFK0AI20009.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0009/2013-07-28/s_94RVUAFK0AI20009.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAFK0AI20009.jpg",
+           "osize": {"w":959,"h":538},
+           "title": "iPhone上不会被运营商“挟持”安装的N多用户并不想要的应用",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAHN0AI20009",
+           "img": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAHN0AI20009.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0009/2013-07-28/t_94RVUAHN0AI20009.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0009/2013-07-28/s_94RVUAHN0AI20009.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAHN0AI20009.jpg",
+           "osize": {"w":1200,"h":788},
+           "title": "iPhone用户能够得到苹果商店的免费技术支持",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAK60AI20009",
+           "img": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAK60AI20009.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0009/2013-07-28/t_94RVUAK60AI20009.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0009/2013-07-28/s_94RVUAK60AI20009.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0009/2013-07-28/94RVUAK60AI20009.jpg",
+           "osize": {"w":1200,"h":834},
+           "title": "iPhone设计完美做工精良，采用高质量的金属和玻璃打造而成，而大部分Android手机在设计和做工上让人不忍直视",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAML0AI20009",
+           "img": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUAML0AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUAML0AI20009.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0009/2013-07-28/s_94RVUAML0AI20009.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUAML0AI20009.jpg",
+           "osize": {"w":1200,"h":900},
+           "title": "iPhone用户可以通过iTunes享用海量的音乐、视频和电影，这也是Android难以企及的",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAQ10AI20009",
+           "img": "http://img6.cache.netease.com/photo/0009/2013-07-28/94RVUAQ10AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUAQ10AI20009.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0009/2013-07-28/s_94RVUAQ10AI20009.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0009/2013-07-28/94RVUAQ10AI20009.jpg",
+           "osize": {"w":1000,"h":613},
+           "title": "iPhone用户可以方便地通过AirPlay将手机中的视频和音乐传到电视上进行播放",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUASB0AI20009",
+           "img": "http://img3.cache.netease.com/photo/0009/2013-07-28/94RVUASB0AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUASB0AI20009.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0009/2013-07-28/s_94RVUASB0AI20009.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0009/2013-07-28/94RVUASB0AI20009.jpg",
+           "osize": {"w":1200,"h":772},
+           "title": "Android手机虽然拥有庞大的数量，但在盈利方面与iPhone相比要棋差一招",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "94RVUAVE0AI20009",
+           "img": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUAVE0AI20009.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0009/2013-07-28/t_94RVUAVE0AI20009.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0009/2013-07-28/s_94RVUAVE0AI20009.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0009/2013-07-28/94RVUAVE0AI20009.jpg",
+           "osize": {"w":920,"h":690},
+           "title": "Android系统碎片化现象非常严重，有许多手机都还在使用已经过时的版本",
+           "note": "",
+           "newsurl": "#"
+        } 
+    ]
+}        

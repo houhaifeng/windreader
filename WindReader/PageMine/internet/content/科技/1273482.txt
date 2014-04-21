@@ -1,0 +1,10 @@
+title:Win8.1 Update 1最新编译版截图：Metro应用可固定到任务栏_Windows 8.1_cnBeta.COM
+encode:utf-8
+keywords:Windows 8.1,Win8.1 Update 1最新编译版截图：Metro应用可固定到任务栏,cnBeta
+description:在Windows 8.1 Update 1即将发布的这段时间里，泄露的各种截图恐怕也已经不在少数了，传言这次的8.1系统更新将在微软BUILD大会前后发布。今天我们要看的泄露截图是编译版本9600.16596，此版本带来的新功能在于可直接将Modern UI（或称Metro UI）应用固定到任务栏（或者说pin到任务栏）。
+link:http://www.cnbeta.com/articles/269680.htm
+image:null
+content:                    
+                                                
+                                                在Windows 8.1 Update 1即将发布的这段时间里，泄露的各种截图恐怕也已经不在少数了，传言这次的8.1系统更新将在微软BUILD大会前后发布。今天我们要看的泄露截图是编译版本9600.16596，此版本带来的新功能在于可直接将Modern UI（或称Metro UI）应用固定到任务栏（或者说pin到任务栏）。                    
+                    上面的截图就能看到Windows Store应用出现在了系统的任务栏上，而且在任务栏属性窗口中，我们还看到了一个“Show Store apps on the taskbar（在任务栏上展示Store中的应用）”选项。这应该表明了桌面任务栏之上可直接点击图标进入Modern UI应用，这项功能最早传言会出现在Windows 9系统中。这次的更新中仍未出现迷你开始菜单（Mini Start Menu），可能开始菜单不会在Update 1中出现了。本次泄露截图的系统完整编译版本信息是6.3.9600.16596.WINBLUES14_GDR_LEAN.140114-0237，可知编译时间是2014年1月14日2:37AM，看样子微软的Windows团队工作时间还是挺晚的...

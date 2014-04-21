@@ -1,0 +1,86 @@
+title:《月满轩尼诗》：爱的是那份港式家常味 - 表江的日志 - 网易博客
+encode:gbk
+keywords:《月满轩尼诗》：爱的是那份港式家常味,日志,表江,表江爱看电影,网易博客,网易,blog
+description:《月满轩尼诗》：爱的是那份港式家常味,表江的网易博客,70后，看电影，写字，生活,
+link:http://rss.feedsportal.com/c/33390/f/640242/p/1/s/547fb532/l/0Lbiaojiang0Bblog0B1630N0Cblog0Cstatic0C12321222420A10A3760A579770C/story01.htm
+image:null
+content:
+  
+    this.p={  m:2,
+              b:2,
+              id:'fks_080064082094086064086083085095085084082065085084084065080',
+              blogTitle:'《月满轩尼诗》：爱的是那份港式家常味',
+              blogAbstract:'因为汤唯的复出，《月满轩尼诗》获得的关注不少，换了另一个女主角，岸西的这部新作恐怕和上部《亲密》获得的待遇相差不远，不过《月满轩尼诗》比《亲密》“亲民”多了，再不是方寸办公室里辗转细密到难以察觉的作家式爱恋，而是街头巷尾比家常多一点比浪漫少一点的普通人生况味，这样细碎地去表现一段感情发展既不惊天也不动地的一部电影，它带来很意外的亲和力，最久违的就是那份熟悉的港式家常味。\r\n港式文艺片一度非常热闹且质量高，《新不了情》、《甜蜜蜜》都是打遍文艺青年和平头百姓，票房口碑一路佳绩，2000后郑秀文的《孤男寡女》等一系列作品也都几乎和好莱坞这两年再度冒头的小清新一样好用，2003年以后港式文艺片就一路式微，《忘不了》几乎是绝唱，后来偶有《生日快乐》这种返魂之作，但是难有印象深刻之作',
+              blogTag:'',
+              blogUrl:'blog/static/1232122242010376057977',
+              isPublished:1,
+              istop:false,
+              type:0,
+              modifyTime:0,
+              publishTime:1270634457977,
+              permalink:'blog/static/1232122242010376057977',
+              commentCount:9,
+              mainCommentCount:9,
+              recommendCount:0,
+              bsrk:-100,
+              publisherId:0,
+              recomBlogHome:false,
+              currentRecomBlog:false,
+              attachmentsFileIds:[],
+              vote:{},
+              groupInfo:{},
+              friendstatus:'none',
+              followstatus:'unFollow',
+              pubSucc:'',
+              visitorProvince:'',
+              visitorCity:'',
+              visitorNewUser:false,
+              postAddInfo:{},
+              mset:'000',
+              mcon:'',
+              srk:-100,
+              remindgoodnightblog:false,
+              isBlackVisitor:false,
+              isShowYodaoAd:false,
+              hostIntro:'',
+              hmcon:'1',
+              selfRecomBlogCount:'0',
+              lofter_single:''
+            }
+  
+  
+    {list a as x}
+    {if !!x}
+    
+      
+      {if x.visitorName==visitor.userName}
+      
+      {else}
+      
+      {/if}
+      
+      
+        {if x.moveFrom=='wap'}
+           
+        {elseif x.moveFrom=='iphone'}
+           
+        {elseif x.moveFrom=='android'}
+           
+        {elseif x.moveFrom=='mobile'}
+           
+        {/if}
+        
+          ${fn(x.visitorNickname,8)|escape}
+      
+    
+    {/if}
+    {/list}
+  
+  
+    {if !!a}
+    
+    ${fn(a.nickname,8)|escape} 
+    
+      著名影评人
+    
+    ${a.selfIntro|escape}{if great260}${suplement}{/if}

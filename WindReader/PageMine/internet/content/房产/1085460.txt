@@ -1,0 +1,306 @@
+title:走进全国第一个万元村——深圳渔民村_网易房产
+encode:gbk
+keywords:深圳,渔民村,万元户村,
+description:广东深圳渔民村，面积仅0.25平方公里，却蜚声海内外。这个昔日“浮家泛宅”的渔家村落，如今已是高楼林立、现代感十足。无疑，这里成为改革开放30多年来，深圳从南粤小镇发展为现代化城市的一个缩影。
+link:http://rss.feedsportal.com/c/33390/f/640233/p/1/s/10d55416/l/0Lbj0Bhouse0B1630N0Cphotonew0C1OQR0A0A0A70C142710A0Bhtml0Tp0F9IIQBHM12AJR0A0A0A7/story01.htm
+image:null
+content:        
+        
+{
+
+    "info": {
+        "setname": "走进全国第一个万元村——深圳渔民村",
+        "imgsum": 25,
+        "lmodify": "2014-01-15 09:35:53",
+        "prevue": "广东深圳渔民村，面积仅0.25平方公里，却蜚声海内外。这个昔日“浮家泛宅”的渔家村落，如今已是高楼林立、现代感十足。无疑，这里成为改革开放30多年来，深圳从南粤小镇发展为现代化城市的一个缩影。",
+        "channelid": "0007",
+        "prev": {
+            "setname": "土豪婚礼:驾直升机 超豪华别墅似宫廷",
+            "simg": "http://img6.cache.netease.com/photo/0007/2014-01-14/s_9IHR8MQQ1OQR0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/1OQR0007/142700.html#q=1"
+        },
+        "next": {
+            "setname": "郫县政府办公楼不挂牌 官员称只能说到这",
+            "simg": "http://img6.cache.netease.com/photo/0007/2014-01-15/s_9IKCP2TT1OQR0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/1OQR0007/142713.html#q=1"
+        }
+    },
+
+    "list": [
+        {
+           "id": "9IIQBHM12AJR0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBHM12AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBHM12AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBHM12AJR0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBHM12AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":640},
+           "title": "0",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBIHT2AJR0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBIHT2AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQBIHT2AJR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IIQBIHT2AJR0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBIHT2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBK472AJR0007",
+           "img": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBK472AJR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IIQBK472AJR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IIQBK472AJR0007.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBK472AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBKN92AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBKN92AJR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IIQBKN92AJR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IIQBKN92AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBKN92AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBL302AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBL302AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQBL302AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBL302AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBL302AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBLQB2AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBLQB2AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBLQB2AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBLQB2AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBLQB2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBMG92AJR0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBMG92AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBMG92AJR0007.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0007/2014-01-14/s_9IIQBMG92AJR0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBMG92AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBMSC2AJR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQBMSC2AJR0007.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0007/2014-01-14/t_9IIQBMSC2AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBMSC2AJR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQBMSC2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBOUC2AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBOUC2AJR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IIQBOUC2AJR0007.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0007/2014-01-14/s_9IIQBOUC2AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBOUC2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBPIP2AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBPIP2AJR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IIQBPIP2AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBPIP2AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQBPIP2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBQ2H2AJR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQBQ2H2AJR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IIQBQ2H2AJR0007.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0007/2014-01-14/s_9IIQBQ2H2AJR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQBQ2H2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBQPV2AJR0007",
+           "img": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBQPV2AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBQPV2AJR0007.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0007/2014-01-14/s_9IIQBQPV2AJR0007.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBQPV2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBRUU2AJR0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBRUU2AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQBRUU2AJR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IIQBRUU2AJR0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-14/9IIQBRUU2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBSV72AJR0007",
+           "img": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBSV72AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBSV72AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQBSV72AJR0007.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0007/2014-01-14/9IIQBSV72AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBTFQ2AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBTFQ2AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQBTFQ2AJR0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-14/s_9IIQBTFQ2AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBTFQ2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBUFP2AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBUFP2AJR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IIQBUFP2AJR0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-14/s_9IIQBUFP2AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBUFP2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQBVLD2AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBVLD2AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQBVLD2AJR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IIQBVLD2AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQBVLD2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC0JD2AJR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC0JD2AJR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IIQC0JD2AJR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IIQC0JD2AJR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC0JD2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC1962AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC1962AJR0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-14/t_9IIQC1962AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQC1962AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC1962AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC1UO2AJR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC1UO2AJR0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-14/t_9IIQC1UO2AJR0007.jpg",
+           "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IIQC1UO2AJR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC1UO2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC2O92AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC2O92AJR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IIQC2O92AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQC2O92AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC2O92AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC3AV2AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQC3AV2AJR0007.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0007/2014-01-14/t_9IIQC3AV2AJR0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-14/s_9IIQC3AV2AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQC3AV2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC4M22AJR0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC4M22AJR0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-14/t_9IIQC4M22AJR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IIQC4M22AJR0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-14/9IIQC4M22AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC5602AJR0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQC5602AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQC5602AJR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IIQC5602AJR0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-14/9IIQC5602AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        },
+        {
+           "id": "9IIQC5IU2AJR0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC5IU2AJR0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-14/t_9IIQC5IU2AJR0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-14/s_9IIQC5IU2AJR0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-14/9IIQC5IU2AJR0007.jpg",
+           "osize": {"w":960,"opttype":"copy","h":717},
+           "title": "",
+           "note": "",
+           "newsurl": "#"
+        } 
+    ]
+}        

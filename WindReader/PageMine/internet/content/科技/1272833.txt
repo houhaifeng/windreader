@@ -1,0 +1,25 @@
+title:使用buildout管理项目
+encode:utf-8
+keywords:manage projects using buildout,过程 & 实践,架构 & 设计,语言 & 开发,PyCon,项目管理,系统管理,
+description:我们通常使用pip或者easy_install搭配virtualenv来安装依赖, 但是site-packages看起来很乱, 而且依赖升级不方便. Buildout给了我们一种全新的管理方式, 依赖都转化成.egg文件, 所有的东西可以像maven一样写在配置文件里面. 不光如此, 利用它的recipe机制, 你可以做任何你想做到的事情
+link:http://www.infoq.com/cn/presentations/manage-projects-using-buildout?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+image:null
+content:		
+			
+				提供反馈 
+				feedback@cn.infoq.com
+			
+			
+				错误报告 
+				bugs@cn.infoq.com
+			
+			
+				商务合作 
+				sales@cn.infoq.com
+			
+			
+				内容合作 
+				editors@cn.infoq.com
+			
+			
+				InfoQ.com及所有内容，版权所有 @ 2006-2013 C4Media Inc. InfoQ.com 服务器由 Contegix提供, 我们最信赖的ISP合作伙伴。隐私政策

@@ -1,0 +1,174 @@
+title:恒大御景湾工地探秘 图解首个自住商品房_网易房产
+encode:gbk
+keywords:恒大御景湾,自住型商品房,朝阳豆各庄,
+description:作为北京首个摇号的自住商品房项目，恒大御景湾自诞生之初就备受媒体和公众的关注。这是北京政府首次针对“夹心层”开发的地块，建成后能满足2000多户家庭的住房需求。【延伸阅读：直击北京首个自住房现场资料审核】
+link:http://rss.feedsportal.com/c/33390/f/640233/p/1/s/26cde15c/l/0Lbj0Bhouse0B1630N0Cphotonew0C4EBT0A0A0A70C1426930Bhtml/story01.htm
+image:null
+content:        
+        
+{
+
+    "info": {
+        "setname": "恒大御景湾工地探秘 图解首个自住商品房",
+        "imgsum": 13,
+        "lmodify": "2014-01-15 14:07:29",
+        "prevue": "作为北京首个摇号的自住商品房项目，恒大御景湾自诞生之初就备受媒体和公众的关注。这是北京政府首次针对“夹心层”开发的地块，建成后能满足2000多户家庭的住房需求。【延伸阅读：直击北京首个自住房现场资料审核】",
+        "channelid": "0007",
+        "prev": {
+            "setname": "一票难求归乡难 不如在京买房全家团圆",
+            "simg": "http://img3.cache.netease.com/photo/0007/2014-01-10/s_9I7O2DUH4EBT0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/4EBT0007/142636.html#q=1"
+        },
+        "next": {
+            "setname": "房价难下跌买房要趁早 2万内热盘先到先得",
+            "simg": "http://img4.cache.netease.com/photo/0007/2014-01-14/s_9IHTKO5K4EBT0007.jpg",
+            "seturl": "http://bj.house.163.com/photonew/4EBT0007/142695.html#q=1"
+        }
+    },
+
+    "list": [
+        {
+           "id": "9IKSG89U4EBT0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-15/9IKSG89U4EBT0007.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0007/2014-01-15/t_9IKSG89U4EBT0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-15/s_9IKSG89U4EBT0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-15/9IKSG89U4EBT0007.jpg",
+           "osize": {"w":1218,"h":812},
+           "title": "恒大御景湾工地探秘 图解首个自住商品房",
+           "note": "",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRBDQ4EBT0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRBDQ4EBT0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-13/t_9IFQRBDQ4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQRBDQ4EBT0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRBDQ4EBT0007.jpg",
+           "osize": {"w":950,"h":632},
+           "title": "恒大御景湾周边环境之河流图",
+           "note": "这是东五环附近的一条河流，位于化工桥东。以桥为界，河流北段是靛青色的河水，水质浑浊，难以见底；河流南段，水质更差，在靠近桥底的位置，漂浮着大量白色泡沫。河水异味并不明显，但显而易见，污染是非常严重的。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRAPM4EBT0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRAPM4EBT0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-13/t_9IFQRAPM4EBT0007.jpg",
+           "simg": "http://img5.cache.netease.com/photo/0007/2014-01-13/s_9IFQRAPM4EBT0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRAPM4EBT0007.jpg",
+           "osize": {"w":950,"h":631},
+           "title": "恒大御景湾周边环境之企业图",
+           "note": "车行至北京焦化厂后，高大的烟囱和林立的厂房随处可见。在这一地区，重工业历史悠久，产业发达。除焦化厂外，还有混凝土厂、建材厂、助剂厂、重金属厂等种类繁多的重工业产业园区。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRBNE4EBT0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-13/9IFQRBNE4EBT0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-13/t_9IFQRBNE4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQRBNE4EBT0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-13/9IFQRBNE4EBT0007.jpg",
+           "osize": {"w":953,"h":531},
+           "title": "恒大御景湾交通区位图",
+           "note": "恒大御景湾位于朝阳区豆各庄乡黄厂村，项目为北京首个摇号销售的自住房项目，单套户型面积约为80—90平米，户型为两居和三居，总套数约2000套，均价约22000元/平米。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRCD94EBT0007",
+           "img": "http://img6.cache.netease.com/photo/0007/2014-01-13/9IFQRCD94EBT0007.jpg",
+           "timg": "http://img4.cache.netease.com/photo/0007/2014-01-13/t_9IFQRCD94EBT0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-13/s_9IFQRCD94EBT0007.jpg",
+           "oimg": "http://img6.cache.netease.com/photo/0007/2014-01-13/9IFQRCD94EBT0007.jpg",
+           "osize": {"w":950,"h":630},
+           "title": "恒大御景湾周边配套之主干道图",
+           "note": "恒大御景湾项目西接东五环，北临京哈高速，南邻京津高速。周边主干道是化工路和大鲁店北路。项目周边公交车很少，只有距项目500米处的运通111和距项目2公里处的457、348。正在建设的7号线地铁未来将穿过项目所在区域，站点距项目2公里左右。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRCT24EBT0007",
+           "img": "http://img5.cache.netease.com/photo/0007/2014-01-13/9IFQRCT24EBT0007.jpg",
+           "timg": "http://img2.cache.netease.com/photo/0007/2014-01-13/t_9IFQRCT24EBT0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-13/s_9IFQRCT24EBT0007.jpg",
+           "oimg": "http://img5.cache.netease.com/photo/0007/2014-01-13/9IFQRCT24EBT0007.jpg",
+           "osize": {"w":950,"h":633},
+           "title": "恒大御景湾黄厂路实景图",
+           "note": "走进黄厂路，映入眼帘的是一派荒芜、杂乱的景象。低矮裸露的围墙，光秃秃的枝桠，一根接一根的电线杆……一切都显得毫无生气，感觉像走进了城乡结合部。图为黄厂路路面路况，道路较为狭窄，仅能容一辆大卡车经过；路面坑坑洼洼，积尘非常严重；道路两旁的荒草长的很高，看得出有相当长时间没打理了。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRD664EBT0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRD664EBT0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-13/t_9IFQRD664EBT0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-13/s_9IFQRD664EBT0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRD664EBT0007.jpg",
+           "osize": {"w":950,"h":631},
+           "title": "恒大御景湾工地入口实景图",
+           "note": "图为恒大御景湾工地入口处。工程车辆往来进入，路面扬尘非常严重。砖跺、土堆、电线杆、广告牌……在飞扬的烟尘里，一切都显得灰蒙蒙的。记者留意到在工地里停着的一辆车，车身上黄色的尘土足有几厘米厚，在上面随手一划，便能留下清晰可见的印记。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRE3D4EBT0007",
+           "img": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRE3D4EBT0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-13/t_9IFQRE3D4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQRE3D4EBT0007.jpg",
+           "oimg": "http://img2.cache.netease.com/photo/0007/2014-01-13/9IFQRE3D4EBT0007.jpg",
+           "osize": {"w":950,"h":631},
+           "title": "恒大御景湾工地施工实景图",
+           "note": "据了解，项目在数月前已开始施工，目前处在挖掘地基的阶段。从现场施工情况来看，已下挖地基约4米深。地面上散落着大块大块的棕黄色土块，偶尔间杂着一些石块。工地南侧的一栋栋白色高楼，是商品房项目富力又一城，目前二手房均价3万左右。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRE7B4EBT0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRE7B4EBT0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-13/t_9IFQRE7B4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQRE7B4EBT0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRE7B4EBT0007.jpg",
+           "osize": {"w":950,"h":629},
+           "title": "恒大御景湾工地施工实景图",
+           "note": "工地上，卡车、吊车在有条不紊的忙碌着。为了方便这些重型机车进入工地，施工方在工地旁简单的修了条路：路的下方用石块铺垫，上方铺上厚厚的一层土。只有这样，才能防止地面下陷，保证机车顺利开进工地。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRF104EBT0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRF104EBT0007.jpg",
+           "timg": "http://img5.cache.netease.com/photo/0007/2014-01-13/t_9IFQRF104EBT0007.jpg",
+           "simg": "http://img2.cache.netease.com/photo/0007/2014-01-13/s_9IFQRF104EBT0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRF104EBT0007.jpg",
+           "osize": {"w":950,"h":630},
+           "title": "恒大御景湾周边生活配套图",
+           "note": "项目附近的配套比较薄弱，只有一些简单的临街店面提供基本的餐饮需求。要找像样的饭馆、快餐店，得到化工桥附近甚至更远的地方。也许是施工的原因，周边汽修配套较完善：化工桥东有家中石化加油站，附近不同档次的汽修店也有好几家。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRG374EBT0007",
+           "img": "http://img4.cache.netease.com/photo/0007/2014-01-13/9IFQRG374EBT0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-13/t_9IFQRG374EBT0007.jpg",
+           "simg": "http://img6.cache.netease.com/photo/0007/2014-01-13/s_9IFQRG374EBT0007.jpg",
+           "oimg": "http://img4.cache.netease.com/photo/0007/2014-01-13/9IFQRG374EBT0007.jpg",
+           "osize": {"w":950,"h":630},
+           "title": "恒大御景湾周边环境污染严重令人担忧",
+           "note": "恒大御景湾周边的环境污染，令人担忧。右上角为黄厂路路况图，道路旁边的土堆上全是浮灰，一脚踩下去，灰尘能没过脚背。左上角为附近河流实景图，靛青的河水上方，漂浮着白色的泡沫。下方为项目附近水沟实景图，黑色的冰面显得很脏。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQRF8T4EBT0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRF8T4EBT0007.jpg",
+           "timg": "http://img3.cache.netease.com/photo/0007/2014-01-13/t_9IFQRF8T4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQRF8T4EBT0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQRF8T4EBT0007.jpg",
+           "osize": {"w":950,"h":630},
+           "title": "恒大御景湾项目周边的戒毒所和监狱",
+           "note": "戒毒所和第二监狱的存在，为这个区域蒙上了一层神秘的色彩。戒毒所在项目斜对面，建筑高大气派，但不见人烟，显得非常冷清。北京市第二监狱在项目北侧，铁锈斑驳的大门，隔开了两个世界。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        },
+        {
+           "id": "9IFQR9EI4EBT0007",
+           "img": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQR9EI4EBT0007.jpg",
+           "timg": "http://img6.cache.netease.com/photo/0007/2014-01-13/t_9IFQR9EI4EBT0007.jpg",
+           "simg": "http://img3.cache.netease.com/photo/0007/2014-01-13/s_9IFQR9EI4EBT0007.jpg",
+           "oimg": "http://img3.cache.netease.com/photo/0007/2014-01-13/9IFQR9EI4EBT0007.jpg",
+           "osize": {"w":950,"h":632},
+           "title": "恒大御景湾发展前景有待印证",
+           "note": "与其他自住商品房相比，恒大御景湾紧邻五环，距市区较近，地理位置还是比较占优势的。但目前项目周边的配套还非常薄弱，主要配套得依托项目南侧的富力又一城。被寄予厚望的恒大御景湾究竟能给刚需购房者带来多大希望？恒大重金拿地究竟值不值？这一切，都还有待未来的印证。",
+           "newsurl": "http://xf.house.163.com/bj/0SJW.html"
+        } 
+    ]
+}        

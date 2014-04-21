@@ -1,0 +1,31 @@
+title:新加坡留学 管理发展学院硕士申请条件介绍_出国留学_活动频道_中国青年网
+encode:utf-8
+keywords:
+description:
+link:http://act.youth.cn/hdlt/201401/t20140121_4566148.html
+image:null
+content:
+
+(function (/*tabs1[, tabs2, ...]*/){
+/* 对所有css 类名为 tabs1(标题)绑定tabs1Body(内容对象)同时隐/显,可以传多个类名,每对的对应规则是tabs1[0]对应tabs1Body[0],高亮的类名为on */
+    var args = arguments;
+    
+    if (!args.length) {
+        return alert('至少提供一个参数');
+    }
+    
+    $(args).each(function(ii, arg){
+        if (!/^[a-z]\w*$/i.test(arg)) {
+            alert('以下class name非法跳过:' + arg);
+        } else {
+            $('.' + arg).each(function (i) {
+                $(this).mouseenter(function () {
+                    $('.' + arg + 'Body').hide();
+                    $('.' + arg + 'Body:eq(' + i + ')').show();
+                    $('.' + arg).removeClass('on');
+                    $(this).addClass('on');
+                });
+            });
+        }
+    });
+})('head1', 'head2');

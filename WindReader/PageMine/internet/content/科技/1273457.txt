@@ -1,0 +1,23 @@
+title:Lenovo ThinkPad 8 动手玩：触感一流的全功能平板（视频）
+encode:utf-8
+keywords:
+description:
+link:http://cn.engadget.com/2014/01/22/lenovo-thinkpad-8-hk-hands-on/
+image:null
+content:	
+
+Lenovo ThinkPad 8 动手玩：触感一流的全功能平板（视频）由 Danny Mak 于 53 minutes 之前发表文章分类: 平板电脑
+
+想买一部 8 吋级平板的朋友，以往在香港只有比较厚重的 Acer Iconia W4、功能不算很齐全的 iPad mini 和 Lenovo Miix 2 选择。不过想要更高阶选择的话，大概很快就可以看到同样来自 Lenovo，但定位更高阶的 ThinkPad 8 选择了。其使用了 Intel Atom Z3770 四核心处理器、8.3 吋 1,920 x 1,200 屏幕和 Windows 8.1 Pro 等等。我们今天正好在 Lenovo 的饭局中，为它来了一个简单的动手玩，想看影片的话就跳转吧 -- 当然还有更多感想啰。
+图集: Lenovo ThinkPad 8 動手玩
+
+动手玩影片（广东话）
+
+ThinkPad 8 整个机身都是黑色，看上去给人很专业的感觉，而拿在手上，其感觉也是一样。机背使用了雾面金属，虽然既滑手又易沾污迹，但拿起来感觉是一流的，而且做工也很扎实。机背看到的东西比较多，左下角有 Lenovo 品牌，右上则是 ThinkPad（i 上面的点是 LED 呢）；左上方有一组以红圈点缀（XD） 800 万像素相机和 LED 补光灯，在平板来说是比较少见的。正下方的部分可以看到扬声器，而机底就有 3.5mm 耳机插。
+
+ 
+动手玩影片（国语）
+
+其他配置还包括左侧的 micro HDMI，以及而防尘盖保护的 microSD 插槽，旁边有占位符安放 LTE 网络用的 SIM 卡，但厂方并没有表明什么时候会推出此机的 LTE 版本。右侧有电源键、音量键以及一组 microUSB 3.0，可以做到高速数据传输，而正面除了屏幕以外，就只有副相机、触控式的 Windows 按键以及右上角的 ThinkPad 商标了。短暂的相处中，我们最有印象的是虽然其使用了亮面屏幕，但在日光下的可视程度还是很高，而使用 Full HD 级数的解像度也让影像非常细腻。可惜其 Windows 8.1 Pro 系统还不是最终版本，所以更详细的效能等等测试就得留待 Podcast 或评测了。Tags: 8.3-inch, 8mp, featured, features, hands on, hands-on, handson, Lenovo, tablet, ThinkPad8, video, Windows8.1, Windows8.1Pro
+ 腾讯微博 
+此文章网址转寄此文章目前有 3 个回应

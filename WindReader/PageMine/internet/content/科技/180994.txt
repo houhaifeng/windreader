@@ -1,0 +1,9 @@
+title:ABI Research：LTE用户年底可达1.78亿_网易科技
+encode:gb2312
+keywords:LTE
+description:ABI Research：LTE用户年底可达1.78亿,LTE
+link:http://rss.feedsportal.com/c/33390/f/640226/p/1/s/87a31ae/l/0Ltech0B1630N0C130C0A7190C0A90C944S3J5R0A0A0A94MOK0Bhtml/story01.htm
+image:null
+content:            
+                        
+                C114讯 7月19日上午消息（南山）市场调研机构ABI Research近日发表研究报告指出，在手机厂商的权利支持下，LTE发展初期的普及速度远高于WCDMA。预计到今年年底LTE全球用户数可达1.78亿，并带动电信业营收达740亿美元。ABI指出，全球470个LTE网络中，已经有193个开始商用，在未来两年内还将有123个网络正式商用。在LTE正式商用的前8个季度，用户数达到了4750万，而当年WCDMA仅有1830万户。为快速部署LTE网络，运营商除大力建设基站外，对微基站small cell也非常依赖。ABI认为今年户外用LTE微基站出货量将达1.8万台，且在2018年逼近百万台。
