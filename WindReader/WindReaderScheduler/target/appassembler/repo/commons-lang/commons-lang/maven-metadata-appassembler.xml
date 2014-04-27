@@ -3,10 +3,10 @@
   <groupId>commons-lang</groupId>
   <artifactId>commons-lang</artifactId>
   <versioning>
-    <release>2.4</release>
+    <release>20030203.000129</release>
     <versions>
-      <version>2.4</version>
+      <version>20030203.000129</version>
     </versions>
-    <lastUpdated>20140421080413</lastUpdated>
+    <lastUpdated>20140427134107</lastUpdated>
   </versioning>
 </metadata>

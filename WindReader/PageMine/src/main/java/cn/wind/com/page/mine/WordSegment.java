@@ -18,7 +18,6 @@ import java.util.Map.Entry;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
-import org.wltea.analyzer.lucene.IKAnalyzer;
 
 import cn.wind.com.page.mine.model.Document;
 import cn.wind.com.page.mine.model.PlainContent;
@@ -41,7 +40,7 @@ public class WordSegment {
 	private static Map<String,Integer> IDFMap = new HashMap<String,Integer>();
 	private static Dictionary dic = Dictionary.getInstance();
 	private static Seg seg = new ComplexSeg(dic);//取得不同的分词具体算法
-	private static Analyzer analyzer = new IKAnalyzer();
+//	private static Analyzer analyzer = new IKAnalyzer();
 	private static int TOTAL = 0;
 	static{
 		BufferedReader br = null;
@@ -114,35 +113,35 @@ public class WordSegment {
 		return this.mmWordSegment(reader);
 	}
 
-	public Document ikWordSegment(Reader reader) throws IOException{
-		Document doc = null;
-		List<SegmentWord> list = new ArrayList<SegmentWord>();
-		Map<String,Integer> map = new LinkedHashMap<String,Integer>();
-		if(reader != null){
-			doc = new Document();
-			TokenStream ts = analyzer.tokenStream("", reader);
-			CharTermAttribute term = ts.getAttribute(CharTermAttribute.class);
-			while(ts.incrementToken()){
-				if(map.containsKey(term.toString())){
-					map.put(term.toString(), map.get(term.toString()) + 1);
-				}else{
-					map.put(term.toString(), 1);
-				}
-			}
-			
-			for(Entry<String,Integer> entry : map.entrySet()){
-				SegmentWord segmentWord = new SegmentWord();
-				segmentWord.setTerm(entry.getKey());
-				segmentWord.setWeight(entry.getValue());
-				list.add(segmentWord);
-				this.increase(entry);
-			}
-			reader.close();
-			doc.setSegmentWords(list.toArray(new SegmentWord[list.size()]));
-			TOTAL++;
-		}
-		return doc;
-	}
+//	public Document ikWordSegment(Reader reader) throws IOException{
+//		Document doc = null;
+//		List<SegmentWord> list = new ArrayList<SegmentWord>();
+//		Map<String,Integer> map = new LinkedHashMap<String,Integer>();
+//		if(reader != null){
+//			doc = new Document();
+//			TokenStream ts = analyzer.tokenStream("", reader);
+//			CharTermAttribute term = ts.getAttribute(CharTermAttribute.class);
+//			while(ts.incrementToken()){
+//				if(map.containsKey(term.toString())){
+//					map.put(term.toString(), map.get(term.toString()) + 1);
+//				}else{
+//					map.put(term.toString(), 1);
+//				}
+//			}
+//			
+//			for(Entry<String,Integer> entry : map.entrySet()){
+//				SegmentWord segmentWord = new SegmentWord();
+//				segmentWord.setTerm(entry.getKey());
+//				segmentWord.setWeight(entry.getValue());
+//				list.add(segmentWord);
+//				this.increase(entry);
+//			}
+//			reader.close();
+//			doc.setSegmentWords(list.toArray(new SegmentWord[list.size()]));
+//			TOTAL++;
+//		}
+//		return doc;
+//	}
 	
 	public Document wordSegment(String words,boolean isIK) throws IOException{
 		StringReader reader = new StringReader(words);
@@ -154,11 +153,11 @@ public class WordSegment {
 	}
 	
 	public Document wordSegment(Reader reader,boolean isIK) throws IOException{
-		if(isIK){
-			return this.ikWordSegment(reader);
-		}else{
+//		if(isIK){
+//			return this.ikWordSegment(reader);
+//		}else{
 			return this.mmWordSegment(reader);
-		}
+//		}
 	}
 	
 	public void calcuteTFIDF(Document doc){

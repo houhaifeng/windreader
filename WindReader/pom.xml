@@ -8,10 +8,10 @@
   <modules>
   	<module>WindReaderCommon</module>
   	<module>WindReaderService</module>
-  	<module>PageMine</module>
+    <module>PageMine</module>
   	<module>BoilerPipe</module>
-<!--   	<module>MMSeg4J</module> -->
-  	<module>CxExtractor</module>
+<!--     <module>IKAnalyzer</module> -->
+    <module>CxExtractor</module>
   	<module>WindReaderScheduler</module>
   	<module>WindReaderWeb</module>
   </modules>
