@@ -13,17 +13,17 @@
 	<dependencies>
 		<dependency>
 			<groupId>cn.wind.com</groupId>
-			<artifactId>page-mine</artifactId>
+			<artifactId>PageMine</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>cn.wind.com</groupId>
-			<artifactId>reader-common</artifactId>
+			<artifactId>WindReaderCommon</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>cn.wind.com.reader</groupId>
-			<artifactId>reader-service</artifactId>
+			<artifactId>WindReaderService</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>

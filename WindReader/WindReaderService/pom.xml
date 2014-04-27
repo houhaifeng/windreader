@@ -13,14 +13,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>cn.wind.com</groupId>
-			<artifactId>reader-common</artifactId>
+			<artifactId>WindReaderCommon</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-			<exclusions>
-				<exclusion>
-					<artifactId>thrift</artifactId>
-					<groupId>org.apache.thrift</groupId>
-				</exclusion>
-			</exclusions>
 		</dependency>
 		<!-- mysql java 连接 -->
 		<dependency>
