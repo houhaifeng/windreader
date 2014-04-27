@@ -1,0 +1,26 @@
+#surefire
+#Sun Apr 27 16:05:50 CST 2014
+testClassesDirectory=/home/eric/git/windreader/WindReader/CxExtractor/target/test-classes
+useManifestOnlyJar=true
+classPathUrl.1=/home/eric/git/windreader/WindReader/CxExtractor/target/classes
+reportsDirectory=/home/eric/git/windreader/WindReader/CxExtractor/target/surefire-reports
+classPathUrl.0=/home/eric/git/windreader/WindReader/CxExtractor/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/home/eric/git/windreader/WindReader/CxExtractor/src/test/java
+surefireClassPathUrl.1=/home/eric/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/home/eric/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.7.1/surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+excludes0=**/*$*
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+isTrimStackTrace=true
+dirscanner.0.params=/home/eric/git/windreader/WindReader/CxExtractor/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
