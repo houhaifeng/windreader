@@ -11,7 +11,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import javax.xml.parsers.ParserConfigurationException;
 
-import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang.StringUtils;
+
 
 import cn.wind.com.page.mine.PageMine;
 import cn.wind.com.page.mine.WordSegment;
