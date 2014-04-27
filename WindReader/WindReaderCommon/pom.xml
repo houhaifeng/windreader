@@ -11,9 +11,9 @@
   <name>WindReaderCommon</name>
 <dependencies>
    <dependency>
-		<groupId>org.apache.thrift</groupId>
-		<artifactId>thrift</artifactId>
-		<version>0.5.0</version>
+  		<groupId>org.apache.thrift</groupId>
+  		<artifactId>libthrift</artifactId>
+  		<version>0.6.1</version>
 	</dependency>
 	<dependency>
 		<groupId>org.slf4j</groupId>
